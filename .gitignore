@@ -1,5 +1,13 @@
+# Deps
 node_modules
+
+# DB
 db/app.db
 db/test.db
+
+# Envs
 .env
 .env.test
+
+# build
+build
